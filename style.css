@@ -134,4 +134,10 @@
     .right h2 {
         font-size: 34px;
     }
+
+    .right .btn {
+        display: block;
+        width: 80%;
+        margin: 16px auto;
+    }
 }
